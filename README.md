@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# You can see the game from this url: https://asherthechamp.github.io/tic-tac-toe/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
